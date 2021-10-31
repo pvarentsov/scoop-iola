@@ -1,6 +1,6 @@
 ## Description
 
-Scoop bucket for the [**iola**](https://github.com/pvarentsov/iola).
+Scoop app manifest for the [**iola**](https://github.com/pvarentsov/iola).
 
 ## Installation
 
