@@ -1,12 +1,12 @@
 {
-    "version": "0.5.5",
+    "version": "0.5.7",
     "description": "Socket client with REST API",
     "homepage": "https://github.com/pvarentsov/iola",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/pvarentsov/iola/releases/download/v0.5.5/iola-v0.5.5-win-amd64.zip",
-            "hash": "8d0c526b176373aa77e3b8ba568455e29c3d44dcb9d0322751bed96826f2de75"
+            "url": "https://github.com/pvarentsov/iola/releases/download/v0.5.7/iola-v0.5.7-win-amd64.zip",
+            "hash": "7464fb15aa21c2b7df6956acbb3fbe604899b44e351f67a94c6cd4441c580662"
         }
     },
     "bin": "iola.exe",
